@@ -33,7 +33,7 @@ header{
 }
 .container h1{
     display: grid;
-    place-items: center;
+    place-items: end;
     color: gray;
     padding-right: 10rem;
     font-size: calc(1.05rem + 2vmin);
