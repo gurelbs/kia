@@ -380,6 +380,7 @@ footer .keep-going-btn a:hover{
     }
     .header-links,.kia-logo,.site-header{
         justify-content: center;
+        margin-top: 1rem;
     }
     .breadcrumb-container{
         top: 1rem;
