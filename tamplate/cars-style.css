@@ -404,7 +404,6 @@ footer .keep-going-btn a:hover{
         color: white;
     }
     .mobilitiy-none{
-        visibility: hidden;
         display: none;
     }
     .main-container{
@@ -486,23 +485,23 @@ footer .keep-going-btn a:hover{
         padding: 1rem 0;
 
     }
-footer .fa-chevron-right, footer .fa-chevron-left{
-    font-size: .8rem;
+    footer .fa-chevron-right, footer .fa-chevron-left{
+        font-size: .8rem;
 
-}
-footer .keep-going-btn a{
-    font-size: .8rem;
-    text-align: left;
-    padding: 1rem 0;
-}
-footer .back-btn a:hover,footer .back-btn:hover,.keep-going-btn a:hover, .keep-going-btn:hover{
-    transition: .5s ease-in-out;
-}
-footer .back-btn a:hover,footer .back-btn:hover{
-    background: rgb(92, 92, 92);
-}
- .keep-going-btn a:hover, .keep-going-btn:hover{
-    background: #7a0e11;
-}
+    }
+    footer .keep-going-btn a{
+        font-size: .8rem;
+        text-align: left;
+        padding: 1rem 0;
+    }
+    footer .back-btn a:hover,footer .back-btn:hover,.keep-going-btn a:hover, .keep-going-btn:hover{
+        transition: .5s ease-in-out;
+    }
+    footer .back-btn a:hover,footer .back-btn:hover{
+        background: rgb(92, 92, 92);
+    }
+    .keep-going-btn a:hover, .keep-going-btn:hover{
+        background: #7a0e11;
+    }
 
   }
