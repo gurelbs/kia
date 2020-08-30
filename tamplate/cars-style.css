@@ -375,7 +375,7 @@ footer .keep-going-btn a:hover{
         font-size: 1.5rem;
         font-weight: bolder;
         text-align: center;
-        padding: 0;
+        padding: 0 0 1.5rem 0;
         letter-spacing: -1px;
     }
     .header-links,.kia-logo,.site-header{
